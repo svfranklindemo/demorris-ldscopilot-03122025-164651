@@ -1,7 +1,19 @@
 {
-  "mappings": [
-    "/content/pbakliwal/eds-crosswalk-source/:/",
-    "/content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json",
-    "/content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json"
-  ]
+    "mappings": [
+      "/content/demorris/6930697bcc3d6192f4628560/:/",
+      "/content/demorris/6930697bcc3d6192f4628560/configuration:/.helix/config.json",
+      "/content/demorris/6930697bcc3d6192f4628560/metadata:/metadata.json",
+      "/content/demorris/6930697bcc3d6192f4628560/configs:/configs.json",
+      "/content/demorris/6930697bcc3d6192f4628560/configs-stage:/configs-stage.json",
+      "/content/demorris/6930697bcc3d6192f4628560/configs-dev:/configs-dev.json",
+      "/content/demorris/6930697bcc3d6192f4628560/redirects:/redirects.json",
+      "/content/demorris/6930697bcc3d6192f4628560/placeholders:/placeholders.json",
+      "/content/demorris/6930697bcc3d6192f4628560/products/recommended-products:/products/recommended-products.json",
+      "/content/demorris/6930697bcc3d6192f4628560/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/demorris/6930697bcc3d6192f4628560/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/demorris/6930697bcc3d6192f4628560",
+      "/content/dam/citisignal/images/products/"
+    ]
 }
